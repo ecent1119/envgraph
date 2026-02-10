@@ -95,8 +95,6 @@ worker
 
 ## Get it
 
-**$39** — one-time purchase, standalone macOS/Linux/Windows binary.
-
 👉 [Download on Gumroad](https://ecent.gumroad.com/l/hebmsl)
 
 ---
