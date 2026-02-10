@@ -93,6 +93,18 @@ worker
 
 ---
 
+## Common problems this solves
+
+- "docker compose env variable overridden"
+- "env variable drift docker"
+- "missing env vars docker compose"
+- "visualize env dependencies"
+- "which env file takes precedence docker"
+- "unused environment variables docker"
+- ".env file not working docker compose"
+
+---
+
 ## Get it
 
 👉 [Download on Gumroad](https://ecent.gumroad.com/l/hebmsl)
@@ -107,6 +119,10 @@ worker
 | **[dataclean](https://github.com/stackgen-cli/dataclean)** | Reset local dev data safely |
 | **[compose-diff](https://github.com/stackgen-cli/compose-diff)** | Semantic Docker Compose diff |
 | **[devcheck](https://github.com/stackgen-cli/devcheck)** | Local project readiness inspector |
+
+---
+
+If this tool saved you time, consider starring the repo.
 
 ---
 
