@@ -25,6 +25,15 @@ Visualize and validate environment variable usage across local dev projects and 
 
 ---
 
+## New in v2.0
+
+- **Multi-language source scanning** — Node.js, Go, Python, Java, Rust, C#
+- **Graph overlays** — compare multiple projects or environments
+- **Baseline mode** — detect drift from known-good configuration
+- **Policy checks** — validate against custom rules (naming, required vars, patterns)
+
+---
+
 ## Example output
 
 ```
@@ -88,7 +97,7 @@ worker
 
 **$39** — one-time purchase, standalone macOS/Linux/Windows binary.
 
-👉 [Download on Gumroad](YOUR_GUMROAD_LINK_HERE)
+👉 [Download on Gumroad](https://ecent.gumroad.com/l/hebmsl)
 
 ---
 

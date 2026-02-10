@@ -1,0 +1,29 @@
+{
+  "product": {
+    "name": "envgraph",
+    "tagline": "Visualize and validate environment variable usage across local dev projects",
+    "description": "Scans .env files, compose files, and source code to build a complete variable inventory. Flags missing, unused, and overridden variables. Generates readable reports and dependency graphs.",
+    "price": {
+      "amount": 9.00,
+      "currency": "USD",
+      "type": "one-time"
+    },
+    "category": "Developer Tools",
+    "tags": ["environment-variables", "docker-compose", "validation", "cli", "devops", "dotenv"],
+    "platforms": ["darwin-amd64", "darwin-arm64", "linux-amd64", "linux-arm64", "windows-amd64"],
+    "requirements": {
+      "os": ["macOS", "Linux", "Windows"],
+      "dependencies": []
+    },
+    "links": {
+      "documentation": "https://github.com/stackgen-cli/envgraph",
+      "support": "https://github.com/stackgen-cli/envgraph/issues"
+    },
+    "metadata": {
+      "license": "Proprietary",
+      "author": "StackGen CLI",
+      "created": "2024-01-01",
+      "version": "1.0.0"
+    }
+  }
+}
